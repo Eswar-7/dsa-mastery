@@ -1,6 +1,6 @@
 public class ReverseNum {
     public static void main(String[] args) {
-        int n = 7789;
+        int n = 2001;
         int revnum = 0;
         while(n > 0){
             int lastdig = n%10;
