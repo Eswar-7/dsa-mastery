@@ -2,7 +2,7 @@
 
 Welcome to my **Data Structures & Algorithms** repository.
 
-This repository documents my complete journey of mastering DSA in **Java**. Every solution is written, organized, and maintained to strengthen problem-solving skills and prepare for technical interviews.
+This repository documents my journey of mastering DSA in **Java**, following **Striver's A2Z DSA Sheet**. Every solution is written, organized, and maintained to strengthen problem-solving skills and prepare for technical interviews.
 
 ---
 
@@ -24,7 +24,7 @@ This repository documents my complete journey of mastering DSA in **Java**. Ever
 
 ## 📚 Learning Roadmap
 
-- [ ] Patterns
+- [x] Patterns
 - [ ] Basic Math
 - [ ] Recursion
 - [ ] Hashing
@@ -49,56 +49,76 @@ This repository documents my complete journey of mastering DSA in **Java**. Ever
 
 ## 📈 Progress
 
-| Topic | Status |
-|--------|--------|
-| Patterns | ⏳ |
-| Basic Math | ⏳ |
-| Recursion | ⏳ |
-| Hashing | ⏳ |
-| Sorting | ⏳ |
-| Arrays | ⏳ |
-| Binary Search | ⏳ |
-| Strings | ⏳ |
-| Linked List | ⏳ |
-| Stack | ⏳ |
-| Queue | ⏳ |
-| Sliding Window | ⏳ |
-| Bit Manipulation | ⏳ |
-| Trees | ⏳ |
-| BST | ⏳ |
-| Heaps | ⏳ |
-| Graphs | ⏳ |
-| Greedy | ⏳ |
-| Dynamic Programming | ⏳ |
-| Tries | ⏳ |
+| Topic | Progress | Status |
+|--------|----------|--------|
+| Patterns | 12 / 12 | ✅ |
+| Basic Math | 0 | ⏳ |
+| Recursion | 0 | ⏳ |
+| Hashing | 0 | ⏳ |
+| Sorting | 0 | ⏳ |
+| Arrays | 0 | ⏳ |
+| Binary Search | 0 | ⏳ |
+| Strings | 0 | ⏳ |
+| Linked List | 0 | ⏳ |
+| Stack | 0 | ⏳ |
+| Queue | 0 | ⏳ |
+| Sliding Window | 0 | ⏳ |
+| Bit Manipulation | 0 | ⏳ |
+| Trees | 0 | ⏳ |
+| Binary Search Trees | 0 | ⏳ |
+| Heaps | 0 | ⏳ |
+| Graphs | 0 | ⏳ |
+| Greedy Algorithms | 0 | ⏳ |
+| Dynamic Programming | 0 | ⏳ |
+| Tries | 0 | ⏳ |
 
 ---
 
 ## ⭐ Repository Structure
 
-```
+```text
 dsa-mastery/
 │
 ├── README.md
+├── LICENSE
+├── .gitignore
+│
 ├── 01_Basics/
 │   └── Patterns/
+│       ├── Pattern01.java
+│       ├── Pattern02.java
+│       ├── Pattern03.java
+│       ├── ...
+│       └── Pattern12.java
 │
-├── 02_Arrays/
-├── 03_BinarySearch/
-├── 04_Strings/
-├── 05_LinkedList/
-├── 06_Stack/
-├── 07_Queue/
-├── 08_Trees/
-├── 09_Graphs/
-├── 10_DynamicProgramming/
-└── ...
+├── 02_Sorting/
+├── 03_Arrays/
+├── 04_Binary_Search/
+├── 05_Strings/
+├── 06_Linked_List/
+├── 07_Stack/
+├── 08_Queue/
+├── 09_Trees/
+├── 10_BST/
+├── 11_Heaps/
+├── 12_Graphs/
+├── 13_Greedy/
+├── 14_Dynamic_Programming/
+└── 15_Tries/
 ```
 
 ---
 
-## 🚀 Status
+## 📊 Current Status
 
-Problems Solved: **0**
+**Problems Solved:** 12
 
-Current Topic: **Patterns**
+**Current Topic:** Basic Math
+
+**Language:** Java
+
+---
+
+## 🔥 Commitment
+
+This repository represents my consistent practice and progress in Data Structures & Algorithms, with a focus on understanding concepts, solving problems, and writing efficient Java solutions.
