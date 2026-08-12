@@ -25,7 +25,7 @@ This repository documents my journey of mastering DSA in **Java**, following **S
 ## 📚 Learning Roadmap
 
 - [x] Patterns
-- [ ] Basic Math
+- [x] Basic Math
 - [ ] Recursion
 - [ ] Hashing
 - [ ] Sorting
@@ -52,7 +52,7 @@ This repository documents my journey of mastering DSA in **Java**, following **S
 | Topic | Progress | Status |
 |--------|----------|--------|
 | Patterns | 12 / 12 | ✅ |
-| Basic Math | 0 | ⏳ |
+| Basic Math | 7/7 | ✅ |
 | Recursion | 0 | ⏳ |
 | Hashing | 0 | ⏳ |
 | Sorting | 0 | ⏳ |
@@ -111,9 +111,9 @@ dsa-mastery/
 
 ## 📊 Current Status
 
-**Problems Solved:** 12
+**Problems Solved:** 19
 
-**Current Topic:** Basic Math
+**Current Topic:** recursion
 
 **Language:** Java
 
